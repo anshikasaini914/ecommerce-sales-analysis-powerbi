@@ -51,7 +51,7 @@ It helps businesses make data-driven decisions to improve revenue and customer e
 
 ## 📸 Dashboard Preview
 
-(Add screenshot here)
+<img src="dashboard.pbix" width="800">
 
 
 ## 🚀 Project Outcome
