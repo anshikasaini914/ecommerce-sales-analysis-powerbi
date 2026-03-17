@@ -51,7 +51,7 @@ It helps businesses make data-driven decisions to improve revenue and customer e
 
 ## 📸 Dashboard Preview
 
-<img src="dashboard-screenshot.png" width="800">
+<img src="screenshot/dashboard-screenshot.png" width="800">
 
 
 ## 🚀 Project Outcome
